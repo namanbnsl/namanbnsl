@@ -3,6 +3,7 @@
 I am Naman and I like to code. 🖥️<br />
 
 🔭 I’m currently working on **moose** 🫎.
+🕸️ I also have a youtube channel: https://www.youtube.com/@namanbnsl
 
 ⚒️ I have built:
 1. moose-mini 🫎 - a simple pretrained llm like chatgpt built to complete stories. trained for cheap on a single v100
