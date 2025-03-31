@@ -2,8 +2,8 @@
 
 I am Naman and I like to code. 🖥️<br />
 
-Airblock: https://github.com/airblockai <br />
-**interned @ airblock.ai** <br /> <br />
+🔭 I have interned at 2 startups.
+
 🔭 I’m currently working on **agents**.
 
 🕸️ I have a youtube channel(62 videos, 91.1 watch hours, 7.5k views, 90 subs): https://www.youtube.com/@namanbnsl
