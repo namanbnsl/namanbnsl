@@ -4,7 +4,7 @@ I am Naman and I like to code. 🖥️<br />
 
 🔭 I have interned at 2 startups.
 
-🔭 I’m currently working on **RL Agents**.
+🔭 I’m currently working on **Agents**.
 
 🕸️ I have a youtube channel(62 videos, 91.1 watch hours, 7.5k views, 90 subs): https://www.youtube.com/@namanbnsl
 🤗 Huggingface: https://huggingface.co/namanbnsl
