@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi 👋
 
-I am Naman and I like to code. 🖥️<br />
+I am Naman and I like to code. 🖥️ <br />
 
 🔭 I have interned at 2 startups.
 
 🔭 I’m currently working on **Agents**.
 
-🕸️ I have a youtube channel(62 videos, 91.1 watch hours, 7.5k views, 90 subs): https://www.youtube.com/@namanbnsl
+🕸️ My YouTube channel(62 videos, 91.1 watch hours, 7.5k views, 90 subs): https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
 
 🕸️ I have tutored people on schoolhouse.world  about ML and DL for 4 sessions and 204 minutes. Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
@@ -21,3 +21,4 @@ I am Naman and I like to code. 🖥️<br />
 8. documented the entire web3 sdk (airblock) - https://docs.airblock.ai/
 9. voice agent to determine income of a person
 10. insights - smart education platform with AI
+11. huggingface-agents-final 🤗 - trying to get a high score on the huggingface agent course leaderboard (GAIA eval)
