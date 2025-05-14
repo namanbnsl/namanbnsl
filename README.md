@@ -2,7 +2,7 @@
 
 I am Naman and I like to code. 🖥️ <br />
 
-🔭 I have interned at 2 startups.
+🎯 I have interned at 2 startups.
 
 🔭 I’m currently working on **Agents**.
 
@@ -21,4 +21,4 @@ I am Naman and I like to code. 🖥️ <br />
 8. documented the entire web3 sdk (airblock) - https://docs.airblock.ai/
 9. voice agent to determine income of a person
 10. insights - smart education platform with AI
-11. huggingface-agents-final 🤗 - trying to get a high score on the huggingface agent course leaderboard (GAIA eval)
+11. huggingface-agents-final 🤗 - trying to get a high score on the huggingface agent course leaderboard (select few level 1 questions from GAIA eval). currently 40% (on main codebase)
