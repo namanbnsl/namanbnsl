@@ -6,7 +6,7 @@ I am Naman and I like to code. 🖥️ <br />
 
 🔭 I’m currently working on **Agents**.
 
-🕸️ My YouTube channel(63 videos, 91.1 watch hours, 7.7k views, 92 subs): https://www.youtube.com/@namanbnsl <br />
+🕸️ My YouTube channel(64 videos, 93.5 watch hours, 5.5k views, 92 subs): https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
 
 🕸️ I have tutored people on schoolhouse.world  about ML and DL for 4 sessions and 204 minutes. Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
@@ -23,3 +23,4 @@ I am Naman and I like to code. 🖥️ <br />
 10. insights - smart education platform with AI
 11. huggingface-agents-final 🤗 - trying to get a high score on the huggingface agent course leaderboard (select few level 1 questions from GAIA eval). currently 40% (on main codebase)
 12. droplab-beats-alive :) - simple beatpad and dj for music. (built using webaudio and tone.js)
+13. manimations 🎥 - making cool animations for projects & youtube videos using python and manim
