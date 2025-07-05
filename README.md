@@ -6,7 +6,7 @@ I am Naman and I like to code. 🖥️ <br />
 
 🔭 I’m currently working on **Agents**.
 
-🕸️ My YouTube channel(62 videos, 91.1 watch hours, 7.5k views, 90 subs): https://www.youtube.com/@namanbnsl <br />
+🕸️ My YouTube channel(63 videos, 91.1 watch hours, 7.7k views, 92 subs): https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
 
 🕸️ I have tutored people on schoolhouse.world  about ML and DL for 4 sessions and 204 minutes. Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
