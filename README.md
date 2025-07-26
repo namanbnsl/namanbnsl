@@ -1,6 +1,4 @@
-## Hi 👋
-
-I am Naman and I like to code. 🖥️ <br />
+## Naman Bansal 👋
 
 🎯 I have interned at 2 startups.
 
