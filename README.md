@@ -8,7 +8,7 @@
 
 🕸️ I have tutored people on schoolhouse.world  about ML and DL for 4 sessions and 204 minutes. Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
 
-⚒️ I have built:
+💻 My Public Projects:
 1. moose-mini 🫎 - a simple pretrained llm on a transformer architecture built to complete stories (trained on tinystories). trained for cheap on a single v100 gpu; around 170mn params;
 2. moose-dataset 🫎 - a combined fine-tuning dataset mainly focusing on math and reasoning
 4. newweb 🛜 - a web3 blogging platform where you can create posts, buy posts, sell posts through crypto. each post is stored on a decentralised network (IPFS). each image posted becomes an NFT. creators can earn through tips and royalty fee as well.
