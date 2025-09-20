@@ -21,4 +21,5 @@
 10. insights 👨‍🏫 - smart education platform with AI
 11. huggingface-agents-final 🤗 - trying to get a high score on the huggingface agent course leaderboard (select few level 1 questions from GAIA eval). currently 40% (on main codebase)
 12. droplab-beats-alive :) 🔊 - simple beatpad and dj for music. (built using webaudio and tone.js)
-13. manimations 🎥 - making cool animations for projects & youtube videos using python and manim
+13. eureka-prototype 💡 - prototype to run manim on an E2B sandbox and display it on the frontend for a competition.
+14. manimations 🎥 - making cool animations for projects & youtube videos using python and manim
