@@ -2,7 +2,7 @@
 
 🎯 I have interned at 2 startups.
 
-🔭 I’m currently working on **Voice Agents**.
+🔭 I’m currently working on **Educational AI videos**.
 
 📽️ My YouTube channel: https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
