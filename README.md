@@ -1,6 +1,6 @@
 ## Naman Bansal 👋
 
-🎯 I have interned at 2 startups.
+🎯 I have interned at 3 startups.
 
 🔭 I’m currently working on **eduvids**.
 
