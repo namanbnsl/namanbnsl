@@ -11,7 +11,7 @@
 
 💻 My Public Projects:
 1. eduvids 📚 - eduvids lets you create educational videos using just text prompts.
-2. moose-mini 🫎 - a simple pretrained llm on a transformer architecture built to complete stories (trained on tinystories). trained for cheap on a single v100 gpu; around 170mn params;
+2. moose-mini 🫎 - a simple pretrained LLM (~170mn) built to complete stories (trained on tinystories). trained cheaply on 1xV100; around 170mn params;
 3. moose-dataset 🫎 - a combined fine-tuning dataset mainly focusing on math and reasoning
 4. newweb 🛜 - a web3 blogging platform where you can create posts, buy posts, sell posts through crypto. each post is stored on a decentralised network (IPFS). each image posted becomes an NFT. creators can earn through tips and royalty fee as well.
 5. lime 🍋‍🟩 - easily setup your own ecommerce store with no-code or an api with an admin dashboard along with a frontend API.
