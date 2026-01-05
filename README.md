@@ -21,5 +21,5 @@
 9. voice agent to determine income of a person
 10. insights 👨‍🏫 - smart education platform with AI
 11. huggingface-agents-final 🤗 - trying to get a high score on the huggingface agent course leaderboard (select few level 1 questions from GAIA eval). currently 40% (on main codebase)
-12. droplab-beats-alive :) 🔊 - simple beatpad and dj for music. (built using webaudio and tone.js)
+12. droplab-beats-alive :) 🔊 - simple beatpad and dj for music. (vibecoded using webaudio and tone.js)
 13. manimations 🎥 - making cool animations for projects & youtube videos using python and manim
