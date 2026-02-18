@@ -11,7 +11,7 @@
 
 💻 My Public Projects:
 1. eduvids 📚 - eduvids lets you create educational videos using just text prompts and auto-uploads them to YouTube and X/Twitter. (https://eduvids.vercel.app)
-2. ministories 🫎 - a simple pretrained LLM (~170mn) built to complete stories (trained on tinystories). trained cheaply on 1xV100; around 170mn params;
+2. ministories-llm 🫎 - a simple pretrained LLM (~170mn) built to complete stories (trained on tinystories). trained cheaply on 1xV100; around 170mn params;
 3. newweb 🛜 - a web3 blogging platform where you can create posts, buy posts, sell posts through crypto. each post is stored on a decentralised network (IPFS). each image posted becomes an NFT. creators can earn through tips and royalty fee as well.
 4. lime 🍋‍🟩 - easily setup your own ecommerce store with no-code or an api with an admin dashboard along with a frontend API.
 5. web3 crm(airblock) 🪙 - track wallet analytics of any person who visits the site. check out their parent accounts, transaction history, family accounts, etc.
