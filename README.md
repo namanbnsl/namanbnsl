@@ -2,7 +2,7 @@
 
 🎯 I have interned at 3 startups.
 
-🔭 I’m currently working on **eduvids** (https://eduvids.vercel.app)
+🔭 I’m currently working on **eduvids** (https://eduvids.app)
 
 📽️ My YouTube channel: https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
