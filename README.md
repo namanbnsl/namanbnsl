@@ -10,7 +10,7 @@
 📽️ My YouTube channel: https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
 
-🕸️ I have tutored people on schoolhouse.world  about ML and DL for 4 sessions and 204 minutes. Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
+🕸️ I have tutored people on schoolhouse.world (4 sessions and 204 minutes). Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
 
 💻 My Public Projects:
 1. eduvids 📚 - eduvids lets you create educational videos using just text prompts and auto-uploads them to YouTube and X/Twitter. (https://eduvids.app)
