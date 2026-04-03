@@ -2,7 +2,7 @@
 
 🫥 I'm 15 years old and love working on cool projects and teaching others.
 
-🎯 I have interned at 3 startups.
+🎯 I have interned at 3 startups. <br />
 🎯 I have won 1 hackathon.
 
 🔭 I’m currently working on **eduvids** (https://eduvids.app)
