@@ -5,7 +5,7 @@
 🎯 I have interned at 3 startups. <br />
 🎯 I have won 1 hackathon.
 
-🔭 I’m currently working on **eduvids** (https://eduvids.app)
+🔭 I’m currently working on **RosettaBench 🪨**
 
 📽️ My YouTube channel: https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
@@ -13,7 +13,7 @@
 🕸️ I have tutored people on schoolhouse.world (4 sessions and 204 minutes). Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
 
 💻 My Public Projects:
-1. eduvids 📚 - eduvids lets you create educational videos using just text prompts and auto-uploads them to YouTube and X/Twitter. (https://eduvids.app)
+1. [eduvids.app](https://eduvids.app) 📚 - eduvids lets you create educational videos using just text prompts and auto-uploads them to YouTube and X/Twitter.
 2. RosettaBench 🪨 - a contamination-free benchmark for measuring learning, not memorization.
 3. ministories-llm 🫎 - a simple pretrained LLM (~170mn) built to complete stories (trained on tinystories). trained cheaply on 1xV100; around 170mn params;
 4. newweb 🛜 - a web3 blogging platform where you can create posts, buy posts, sell posts through crypto. each post is stored on a decentralised network (IPFS). each image posted becomes an NFT. creators can earn through tips and royalty fee as well.
