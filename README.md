@@ -12,7 +12,7 @@
 
 💻 My Public Projects:
 1. [eduvids.app](https://eduvids.app) 📚 - eduvids lets you create educational videos using just text prompts and auto-uploads them to YouTube and X/Twitter.
-1. RosettaBench 🪨 - a contamination-free benchmark for measuring learning, not memorization.
+1. [RosettaBench](https://namanbnsl.github.io/RosettaBench/) 🪨 - a contamination-free benchmark for measuring learning, not memorization.
 1. ministories-llm 🫎 - a simple pretrained LLM (~170mn) built to complete stories (trained on tinystories). trained cheaply on 1xV100; around 170mn params;
 1. newweb 🛜 - a web3 blogging platform where you can create posts, buy posts, sell posts through crypto. each post is stored on a decentralised network (IPFS). each image posted becomes an NFT. creators can earn through tips and royalty fee as well.
 1. web3 crm(airblock) 🪙 - track wallet analytics of any person who visits the site. check out their parent accounts, transaction history, family accounts, etc.
