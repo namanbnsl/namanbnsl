@@ -3,7 +3,7 @@
 🎯 I have interned at 3 startups. <br />
 🎯 I have won 1 hackathon.
 
-🔭 I’m currently working on **Atlas**
+🔭 I’m currently working on **Farpoint**
 
 📽️ My YouTube channel: https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
