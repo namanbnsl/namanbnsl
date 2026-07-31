@@ -11,6 +11,7 @@
 🕸️ I have tutored people on schoolhouse.world (4 sessions and 204 minutes). Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
 
 💻 My Public Projects:
+1. [farpoint](https://github.com/namanbnsl/farpoint) - analyse your coding agent sessions and adapt them to you.
 1. [eduvids.app](https://eduvids.app) 📚 - eduvids lets you create educational videos using just text prompts and auto-uploads them to YouTube and X/Twitter.
 1. [RosettaBench](https://namanbnsl.github.io/RosettaBench/) 🪨 - a contamination-free benchmark for measuring learning, not memorization.
 1. ministories-llm 🫎 - a simple pretrained LLM (~170mn) built to complete stories (trained on tinystories). trained cheaply on 1xV100; around 170mn params;
