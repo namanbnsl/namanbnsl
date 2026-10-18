@@ -3,7 +3,7 @@
 🎯 I have interned at 3 startups. <br />
 🎯 I have won 1 hackathon.
 
-🔭 I’m currently working on **Relay**
+🔭 I’m currently working on **nearpoint**
 
 📽️ My YouTube channel: https://www.youtube.com/@namanbnsl <br />
 🤗 Huggingface: https://huggingface.co/namanbnsl
