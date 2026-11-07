@@ -1,25 +1,31 @@
-## Naman Bansal 👋
+## Hi, I'm Naman 👋
 
-🎯 I have interned at 3 startups. <br />
-🎯 I have won 1 hackathon.
+I build software and make videos about it on [YouTube](https://www.youtube.com/@namanbnsl).
 
-🔭 I’m currently working on **copycat**
+Right now I'm building **supertype**. It's not ready yet.
 
-📽️ My YouTube channel: https://www.youtube.com/@namanbnsl <br />
-🤗 Huggingface: https://huggingface.co/namanbnsl
+[X](https://x.com/namanbx) · [YouTube](https://www.youtube.com/@namanbnsl) · [Hugging Face](https://huggingface.co/namanbnsl)
 
-🕸️ I have tutored people on schoolhouse.world (4 sessions and 204 minutes). Worked with 12 learners from 7 countries. Worked with another tutor for 3 sessions. Got extremely good feedback from all learners with 9 helpfuls and 7 super helpfuls. (https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94). Feedback included interactive, friendly and good explanations.
+### Projects
 
-💻 My Public Projects:
-1. [farpoint](https://github.com/namanbnsl/farpoint) - analyse your coding agent sessions and adapt them to you.
-1. [eduvids.app](https://eduvids.app) 📚 - eduvids lets you create educational videos using just text prompts and auto-uploads them to YouTube and X/Twitter.
-1. [RosettaBench](https://namanbnsl.github.io/RosettaBench/) 🪨 - a contamination-free benchmark for measuring learning, not memorization.
-1. ministories-llm 🫎 - a simple pretrained LLM (~170mn) built to complete stories (trained on tinystories). trained cheaply on 1xV100; around 170mn params;
-1. newweb 🛜 - a web3 blogging platform where you can create posts, buy posts, sell posts through crypto. each post is stored on a decentralised network (IPFS). each image posted becomes an NFT. creators can earn through tips and royalty fee as well.
-1. web3 crm(airblock) 🪙 - track wallet analytics of any person who visits the site. check out their parent accounts, transaction history, family accounts, etc.
-1. web3 sdk(airblock) 🪙 - used to get the analytics from the wallet and send to the website.
-1. lime 🍋‍🟩 - easily setup your own ecommerce store with no-code or an api with an admin dashboard along with a frontend API. also available via an sdk on npm.
-1. CrisisNet 🔥 - CrisisNet ingests data from sensors and reliably verifies it through a webcam via a fine-tuned YOLO model. If fire is verified, posts are automatically made on Bluesky with an image as well as a map with a circle showing affected area. If there are any replies made on the post, our LLM-based bot replies to it with the latest data available to it. Made for TISBHacks2026
-1. documented the entire web3 sdk (airblock) - https://docs.airblock.ai/
-1. droplab-beats-alive :) 🔊 - vibecoded simple beatpad and dj for music. (https://droplab-beats.netlify.app)
-1. manimations 🎥 - making cool animations for projects & youtube videos using python and manim
+- [farpoint](https://github.com/namanbnsl/farpoint): analyses your coding agent sessions and adapts them to you.
+- [RosettaBench](https://namanbnsl.github.io/RosettaBench/): a contamination-free benchmark that measures learning, not memorization.
+- [eduvids.app](https://eduvids.app): turns a text prompt into an educational video and posts it to YouTube and X.
+- ministories-llm: a ~170M-parameter LLM I pretrained on TinyStories on a single V100.
+- CrisisNet: detects fires from sensors, confirms them with a fine-tuned YOLO model on a webcam, and posts alerts with a map to Bluesky. Built for TISBHacks 2026.
+
+<details>
+<summary>Older projects</summary>
+
+- lime: a no-code ecommerce store with an admin dashboard, API and npm SDK.
+- airblock: a web3 CRM and SDK for wallet analytics ([docs](https://docs.airblock.ai/), which I wrote).
+- newweb: a web3 blogging platform on IPFS where posts can be bought, sold and tipped.
+- [droplab-beats](https://droplab-beats.netlify.app): a simple beatpad and DJ app.
+- manimations: animations for projects and videos with Python and Manim.
+
+</details>
+
+### Other
+
+- Interned at 3 startups and won 1 hackathon.
+- Tutored 12 learners from 7 countries on [schoolhouse.world](https://schoolhouse.world/transcript/d25a544f-b8b9-4505-8bf9-0382099afa94).
