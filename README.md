@@ -2,7 +2,7 @@
 
 I build software and make videos about it on [YouTube](https://www.youtube.com/@namanbnsl).
 
-Right now I'm building **supertype**.
+Right now I'm working on **eduvids** and **supertype**.
 
 [X](https://x.com/namanbx) · [YouTube](https://www.youtube.com/@namanbnsl) · [Hugging Face](https://huggingface.co/namanbnsl)
 
